@@ -5,15 +5,21 @@ layout: default
   .highlight {
     color: #B4E953;
 </style>
+
+<style>
+  code {
+    background-color:#B4E953;
+  }
+</style>
 [View Full Resume](Ahsan-Resume.pdf).
 
-**Hi, I'm `Aiman.`**
+<h2> <span class="highlight">Hi, I'm</span><code>Aiman</code></h2>
 
 <p>I'm currently working towards two Bachelor's Degrees at The University of Texas at Dallas: <i>Information Technology Systems</i> with a concentration in <i>Cybersecurity Management</i> & <i>Finance</i> with a concentration in <i>Risk Management & Cybersecurity</i></p>
 
 <p>I am currently attempting to learn how to use Scapy & Firebase, & how to comprehend the TCP/IP stack</p>
 
-<p>When I have free time, I love to play <p><span class="highlight">basketball</span> as well as read <span class="highlight">manga</span> & play <span class="highlight">video games</span> of countless genres (I'm not picky)</p>
+<p>When I have free time, I love to play <span class="highlight">basketball</span> as well as read <span class="highlight">manga</span> & play <span class="highlight">video games</span> of countless genres (I'm not picky)</p>
 
 <p></p>
 
