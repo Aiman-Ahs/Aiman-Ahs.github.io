@@ -1,14 +1,21 @@
 ---
 layout: default
 ---
+<style>
+  .highlight {
+    color: #B4E953;
+</style>
+[View Full Resume](Ahsan-Resume.pdf).
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+**Hi, I'm `Aiman.`**
 
-[Link to another page](./another-page.html).
+<p>I'm currently working towards two Bachelor's Degrees at The University of Texas at Dallas: <i>Information Technology Systems</i> with a concentration in <i>Cybersecurity Management</i> & <i>Finance</i> with a concentration in <i>Risk Management & Cybersecurity</i></p>
 
-There should be whitespace between paragraphs.
+<p>I am currently attempting to learn how to use Scapy & Firebase, & how to comprehend the TCP/IP stack</p>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<p>When I have free time, I love to play <p><span class="highlight">basketball</span> as well as read <span class="highlight">manga</span> & play <span class="highlight">video games</span> of countless genres (I'm not picky)</p>
+
+<p></p>
 
 # Header 1
 
