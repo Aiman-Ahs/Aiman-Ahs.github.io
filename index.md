@@ -6,14 +6,10 @@ layout: default
     color: #B4E953;
 </style>
 
-<style>
-  code {
-    background-color:#000000;
-  }
 </style>
 [View Full Resume](Ahsan-Resume.pdf).
 
-<h2> <span class="highlight">Hi, I'm </span> <code>Aiman</code></h2>
+<h2> <span class="highlight">Hi, I'm <strong>Aiman</strong></span> </h2>
 
 <p>I'm currently working towards two Bachelor's degrees at The University of Texas at Dallas: <span class="highlight">Information Technology Systems </span> with a concentration in <span class="highlight">Cybersecurity Management</span> & <span class="highlight">Finance</span> with a concentration in <span class="highlight">Risk Management & Cybersecurity</span></p>
 
