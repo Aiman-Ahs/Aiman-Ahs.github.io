@@ -13,7 +13,7 @@ layout: default
 </style>
 [View Full Resume](Ahsan-Resume.pdf).
 
-<h2> <span class="highlight">Hi, I'm</span><code> Aiman</code></h2>
+<h2> <span class="highlight">Hi, I'm </span> <code>Aiman</code></h2>
 
 <p>I'm currently working towards two Bachelor's Degrees at The University of Texas at Dallas: <i>Information Technology Systems</i> with a concentration in <i>Cybersecurity Management</i> & <i>Finance</i> with a concentration in <i>Risk Management & Cybersecurity</i></p>
 
