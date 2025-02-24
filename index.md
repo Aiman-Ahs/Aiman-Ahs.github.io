@@ -8,14 +8,14 @@ layout: default
 
 <style>
   code {
-    background-color:#FFFFFF;
+    background-color:#000000;
   }
 </style>
 [View Full Resume](Ahsan-Resume.pdf).
 
 <h2> <span class="highlight">Hi, I'm </span> <code>Aiman</code></h2>
 
-<p>I'm currently working towards two Bachelor's Degrees at The University of Texas at Dallas: <i>Information Technology Systems</i> with a concentration in <i>Cybersecurity Management</i> & <i>Finance</i> with a concentration in <i>Risk Management & Cybersecurity</i></p>
+<p>I'm currently working towards two Bachelor's degrees at The University of Texas at Dallas: <span class="highlight">Information Technology Systems </span> with a concentration in <span class="highlight">Cybersecurity Management</span> & <span class="highlight">Finance</span> with a concentration in <span class="highlight">Risk Management & Cybersecurity</span></p>
 
 <p>I am currently attempting to learn how to use Scapy & Firebase, & how to comprehend the TCP/IP stack</p>
 
