@@ -11,7 +11,7 @@ layout: default
     color: #FFFFFF;
 </style>
 
-[View Full Resume](Ahsan-Resume1.pdf)
+<a href=Ahsan-Resume1.pdf>View Full Resume</a>
 
 <h1>
   <span class="highlight">Hi, I'm <strong>Aiman.</strong></span> 
