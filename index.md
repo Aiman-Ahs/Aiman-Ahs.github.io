@@ -39,7 +39,7 @@ layout: default
 
 <blockquote>
   <ul style="list-style-type: square;">
-    &emsp;<a href="https://comick.io/user/f80ac380-2868-4981-83ba-35d38569b696/list">Manga Library Here</a>
+    &emsp;<a href="https://comick.io/user/f80ac380-2868-4981-83ba-35d38569b696/list">Manga Library Here</a><br>
     &emsp;<span class="white"><span class="highlight">The House in Fata Morgana,</span> by Keika Hanada</span>
   </ul>
 </blockquote>
