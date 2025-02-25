@@ -58,9 +58,11 @@ layout: default
 </blockquote>
 <br>
 
-<h1><span class="highlight">Experience</h1>
+<h1><span class="highlight">Experience</span></h1>
 
-<h2><span class="highlight">Association for Computing Machinery (ACM)</h2> <br>
+<hr style="border: none; border-top: 3px dotted #B4E953; width: 100%;">
+
+<h2><span class="highlight">Association for Computing Machinery (ACM)</span></h2> <br>
 <h3></h3>
 
 
