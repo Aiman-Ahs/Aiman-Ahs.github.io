@@ -26,7 +26,7 @@ layout: default
 </h2>
 
 <blockquote>
-  <span class="white">Attempting to learn how to use <span class="highlight">Scapy & Firebase,</span> as well as working towards my <span class="highlight">AWS certification</span>.</span>
+  Attempting to learn how to use <span class="highlight">Scapy & Firebase,</span> as well as working towards my <span class="highlight">AWS certification</span>.
 </blockquote>
 
 <p>
@@ -38,10 +38,8 @@ layout: default
 </h2>
 
 <blockquote>
-  <ul style="list-style-type: square;">
-    <a href="https://comick.io/user/f80ac380-2868-4981-83ba-35d38569b696/list">Manga Library Here</a><br>
-    <span class="white"><span class="highlight">The House in Fata Morgana,</span> by Keika Hanada</span>
-  </ul>
+  <span class="highlight">The House in Fata Morgana,</span> by Keika Hanada.<br>
+    <a href="https://comick.io/user/f80ac380-2868-4981-83ba-35d38569b696/list">Manga Library Here</a>
 </blockquote>
 
 
