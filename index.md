@@ -6,14 +6,19 @@ layout: default
     color: #B4E953;
 </style>
 
+<style>
+  .white {
+    color: #FFFFFF;
 </style>
-[View Full Resume](Ahsan-Resume1.pdf).
+[View Full Resume](Ahsan-Resume1.pdf)
 
-<h2> <span class="highlight">Hi, I'm <strong>Aiman</strong></span> </h2>
+<h2> <span class="highlight">Hi, I'm <strong>Aiman.</strong></span> </h2>
 
-<p>I'm currently working towards two Bachelor's degrees at The University of Texas at Dallas: <span class="highlight">Information Technology Systems </span> with a concentration in <span class="highlight">Cybersecurity Management</span> & <span class="highlight">Finance</span> with a concentration in <span class="highlight">Risk Management & Cybersecurity</span></p>
+<p>I'm currently working towards two Bachelor's degrees at The University of Texas at Dallas: <span class="highlight">Information Technology Systems </span> with a concentration in <span class="highlight">Cybersecurity Management</span> & <span class="highlight">Finance</span> with a concentration in <span class="highlight">Risk Management & Cybersecurity.</span></p>
 
-<p>I am currently attempting to learn how to use Scapy & Firebase, & how to comprehend the TCP/IP stack</p>
+<h1><span class="highlight">Currently Learning:</span></h1>
+
+<blockquote><span class="white">Attempting to learn how to use <span class="highlight">Scapy & Firebase,</span> as well as working towards my <span class="highlight">AWS certification</span>.</span></blockquote>
 
 <p>When I have free time, I love to play <span class="highlight">basketball</span> as well as read <span class="highlight">manga</span> & play <span class="highlight">video games</span> of countless genres (I'm not picky)</p>
 
