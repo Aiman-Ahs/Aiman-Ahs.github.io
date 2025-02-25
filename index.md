@@ -23,7 +23,7 @@ layout: default
 </h1>
 
 <p>
-  It wasn't until I started driving that I realized I wanted to pursue a career towards <span class="highlight">Cybersecurity</span> in some regard. While driving, my brain instinctively seeks out the potential risks for each moment in time, as any slight imperfection could lead to harm. My situational awareness has trained me to mitigate as many risks as possible while driving. This mindset of anticipating threats and minimizing vulnerabilities ultimately aligns with the core principles of <span class="highlight">Cybersecurity & Risk Management</span>.
+  It wasn't until I started driving that I realized I wanted to pursue a career towards <span class="highlight">Cybersecurity</span> in some regard. While driving, my brain instinctively seeks out the potential risks for each moment in time, as any slight imperfection could lead to harm. My situational awareness has trained me to mitigate as many risks as possible while driving. Just as I minimize risks on the road, I'm driven by the same strategic awareness to defend the digital world, which aligns perfectly with the principles of <span class="highlight">Cybersecurity & Risk Management</span>.
 </p>
 
 <p>
