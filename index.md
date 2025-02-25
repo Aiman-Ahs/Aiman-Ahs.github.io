@@ -42,6 +42,15 @@ layout: default
     <a href="https://comick.io/user/f80ac380-2868-4981-83ba-35d38569b696/list">Manga Library Here</a>
 </blockquote>
 
+<h2>
+  <span class="highlight">Currently Playing:</span>
+</h2>
+
+<blockquote>
+  <span class="highlight">Batman: Arkham Asylum,</span> from Rocksteady<br>
+  <span class="highlight">Persona 5 Royal,</span> from Atlus<br>
+  <span class="highlight">Final Fantasy VII,</span> from Square Enix<br>
+</blockquote>
 
 # Header 1
 
