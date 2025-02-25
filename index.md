@@ -23,6 +23,10 @@ layout: default
 </h1>
 
 <p>
+  It wasn't until I started driving that I realized I wanted to pursue a career towards <span class="highlight">Cybersecurity</span> in some regard. While driving, my brain instinctively seeks out the potential risks for each moment in time, as any slight imperfection could lead to harm. My situational awareness has trained me to mitigate as many risks as possible while driving. This mindset of anticipating threats and minimizing vulnerabilities ultimately aligns with the core principles of <span class="highlight">Cybersecurity & Risk Management</span>.
+</p>
+
+<p>
   I'm currently working towards two Bachelor's degrees at The University of Texas at Dallas: <span class="highlight">Information Technology Systems </span> with a concentration in <span class="highlight">Cybersecurity Management</span> & <span class="highlight">Finance</span> with a concentration in <span class="highlight">Risk Management & Cybersecurity</span>.
 </p>
 
@@ -58,23 +62,29 @@ layout: default
 </blockquote>
 <br>
 
-<h1><strong><span class="highlight">Experience</span></strong></h1>
+<h1><strong><span class="highlight">Leadership Experience & Organizations</span></strong></h1>
 <hr style="border: none; border-top: 2px dotted #B4E953; width: 100%;">
-<p>Software Team Member</p>
-<h2><span class="highlight">Association for Computing Machinery (ACM)</span></h2> <br>
+<h2><span class="highlight">Association for Computing Machinery (ACM)</span></h2>
+<p><em>Education Division Mentor</em></p>
+<blockquote>
+  Providing guidance to two underclassmen on resume building, academic planning, industry expectations, and fundamental Python practices while developing and sharing educational resources to support their coursework and personal projects.
+</blockquote>
+
+<h2><span class="highlight">Dallas Formula Racing (DFR)</span></h2>
+<p><em>Software Team Member</em></p>
+<blockquote>
+  Utilizing Python with libraries like Plotly and Pandas to analyze, clean, and visualize CSVs and CAN Bus logs of vehicle dynamics data to simplify metrics data for the engineers to improve the car, while automating file management tasks in Linux by writing commands to locate, filter, and organize data files — streamlining workflows and boosting efficiency.
+</blockquote>
+
+<h2><span class="highlight">Computer Security Group (CSG)</span></h2>
+<p><em>Active Member</em></p>
+<blockquote>
+  Participating in weekly meetings to develop ethical hacking skills through hands-on experience with tools like Ubuntu and Wireshark, and completing Capture the Flag (CTF) challenges in virtual environments, and engaging with peers and professionals through guest lectures and discussions focused on practical cybersecurity techniques.
+</blockquote>
 
 
 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
