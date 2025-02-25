@@ -11,6 +11,11 @@ layout: default
     color: #FFFFFF;
 </style>
 
+<style>
+  .gray {
+    color: #ABABAA;
+</style>
+
 <a href="Ahsan-Resume1.pdf" target="_blank" rel="noopener noreferrer">View Full Resume</a>
 
 <h1>
@@ -51,8 +56,14 @@ layout: default
   <span class="highlight">Persona 5 Royal,</span> from Atlus<br>
   <span class="highlight">Final Fantasy VII,</span> from Square Enix<br>
 </blockquote>
+<br>
 
-# Header 1
+<h1><span class="highlight">Experience</h1>
+
+<h2><span class="highlight">Association for Computing Machinery (ACM)</h2> <br>
+<h3></h3>
+
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
