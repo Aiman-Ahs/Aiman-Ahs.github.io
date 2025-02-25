@@ -59,11 +59,10 @@ layout: default
 <br>
 
 <h1><strong><span class="highlight">Experience</span></strong></h1>
-
-<hr style="border: none; border-top: 1px dotted #B4E953; width: 100%;">
-<br>
+<hr style="border: none; border-top: 2px dotted #B4E953; width: 100%;">
+<p>Software Team Member</p>
 <h2><span class="highlight">Association for Computing Machinery (ACM)</span></h2> <br>
-<h3></h3>
+
 
 
 
