@@ -23,11 +23,11 @@ layout: default
 </h1>
 
 <p>
-  It wasn't until I started driving that I realized I wanted to pursue a career towards <span class="highlight">Cybersecurity</span> in some regard. While driving, my brain instinctively seeks out the potential risks for each moment in time, as any slight imperfection could lead to harm. My situational awareness has trained me to mitigate as many risks as possible while driving. Just as I minimize risks on the road, I'm driven by the same strategic awareness to defend the digital world, which aligns perfectly with the principles of <span class="highlight">Cybersecurity & Risk Management</span>.
+  It wasn't until I started driving that I realized I wanted to pursue a career toward <span class="highlight">Cybersecurity</span> in some regard. While driving, my brain instinctively seeks out the potential risks for each moment in time, as any slight imperfection could lead to harm. My situational awareness has trained me to mitigate as many risks as possible while driving. Just as I minimize risks on the road, I'm driven by the same strategic awareness to defend the digital world, which aligns perfectly with the principles of <span class="highlight">Cybersecurity & Risk Management</span>.
 </p>
 
 <p>
-  I'm currently working towards two Bachelor's degrees at The University of Texas at Dallas: <span class="highlight">Information Technology Systems </span> with a concentration in <span class="highlight">Cybersecurity Management</span> & <span class="highlight">Finance</span> with a concentration in <span class="highlight">Risk Management & Cybersecurity</span>.
+  I'm currently working toward two Bachelor's degrees at The University of Texas at Dallas: <span class="highlight">Information Technology Systems </span> with a concentration in <span class="highlight">Cybersecurity Management</span> & <span class="highlight">Finance</span> with a concentration in <span class="highlight">Risk Management & Cybersecurity</span>.
 </p>
 
 <h2>
@@ -35,7 +35,7 @@ layout: default
 </h2>
 
 <blockquote>
-  Attempting to learn how to use <span class="highlight">Scapy & Firebase,</span> as well as working towards my <span class="highlight">AWS certification</span>.
+  Attempting to learn how to use <span class="highlight">Scapy & Firebase,</span> as well as working toward my <span class="highlight">AWS certification</span>.
 </blockquote>
 
 <p>
@@ -48,7 +48,7 @@ layout: default
 
 <blockquote>
   <span class="highlight">The House in Fata Morgana,</span> by Keika Hanada.<br>
-    <a href="https://comick.io/user/f80ac380-2868-4981-83ba-35d38569b696/list">Manga Library Here</a>
+    <a href="https://comick.io/user/f80ac380-2868-4981-83ba-35d38569b696/list">My Manga Library Here</a>
 </blockquote>
 
 <h2>
