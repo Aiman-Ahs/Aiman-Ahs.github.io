@@ -55,38 +55,32 @@ layout: default
   <span class="highlight">Currently Playing:</span>
 </h2>
 
-<div>
-  <blockquote>
-    <span class="highlight">Batman: Arkham Asylum,</span> from Rocksteady<br>
-    <span class="highlight">Persona 5 Royal,</span> from Atlus<br>
-    <span class="highlight">Final Fantasy VII,</span> from Square Enix<br>
-  </blockquote>
-  <br>
-</div>
+<blockquote>
+  <span class="highlight">Batman: Arkham Asylum,</span> from Rocksteady<br>
+  <span class="highlight">Persona 5 Royal,</span> from Atlus<br>
+  <span class="highlight">Final Fantasy VII,</span> from Square Enix<br>
+</blockquote> 
+<br>
 
-  <h1><strong><span class="highlight">Leadership Experience & Organizations</span></strong></h1>
-  <hr style="border: none; border-top: 2px dotted #B4E953; width: 100%;">
-  <h2><span class="highlight">Association for Computing Machinery (ACM)</span</h2>
-  <p><em>Education Division Mentor</em></p>
-  <blockquote>
-    Providing guidance to two underclassmen on resume building, academic planning, industry expectations, and fundamental Python practices while developing and sharing educational resources to support their coursework and personal projects
-  </blockquote>
+<h1><strong><span class="highlight">Leadership Experience & Organizations</span></strong></h1>
+<hr style="border: none; border-top: 2px dotted #B4E953; width: 100%;">
+<h2><span class="highlight">Association for Computing Machinery (ACM)</span</h2>
+<p><em>Education Division Mentor</em></p>
+<blockquote>
+  Providing guidance to two underclassmen on resume building, academic planning, industry expectations, and fundamental Python practices while developing and sharing educational resources to support their coursework and personal projects
+</blockquote>
 
-<div>
-  <h2><span class="highlight">Dallas Formula Racing (DFR)</span></h2>
-  <p><em>Software Team Member</em></p>
-  <blockquote>
-    Utilizing Python with libraries like Plotly and Pandas to analyze, clean, and visualize CSVs and CAN Bus logs of vehicle dynamics data to simplify metrics data for the engineers to improve the car while automating file management tasks in Linux by writing commands to locate, filter, and organize data files — streamlining workflows and boosting efficiency.
-  </blockquote>
-</div>
+<h2><span class="highlight">Dallas Formula Racing (DFR)</span></h2>
+<p><em>Software Team Member</em></p>
+<blockquote>
+  Utilizing Python with libraries like Plotly and Pandas to analyze, clean, and visualize CSVs and CAN Bus logs of vehicle dynamics data to simplify metrics data for the engineers to improve the car while automating file management tasks in Linux by writing commands to locate, filter, and organize data files — streamlining workflows and boosting efficiency.
+</blockquote>
 
-<div>
-  <h2><span class="highlight">Computer Security Group (CSG)</span></h2>
-  <p><em>Active Member</em></p>
-  <blockquote>
-    Participating in weekly meetings to develop ethical hacking skills through hands-on experience with tools like Ubuntu and Wireshark, and completing Capture the Flag (CTF) challenges in virtual environments, and engaging with peers and professionals through guest lectures and discussions focused on practical cybersecurity techniques.
-  </blockquote>
-</div>
+<h2><span class="highlight">Computer Security Group (CSG)</span></h2>
+<p><em>Active Member</em></p>
+<blockquote>
+  Participating in weekly meetings to develop ethical hacking skills through hands-on experience with tools like Ubuntu and Wireshark, and completing Capture the Flag (CTF) challenges in virtual environments, and engaging with peers and professionals through guest lectures and discussions focused on practical cybersecurity techniques.
+</blockquote>
 
 
 
