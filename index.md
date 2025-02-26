@@ -82,7 +82,12 @@ layout: default
   Participating in weekly meetings to develop ethical hacking skills through hands-on experience with tools like Ubuntu and Wireshark, and completing Capture the Flag (CTF) challenges in virtual environments, and engaging with peers and professionals through guest lectures and discussions focused on practical cybersecurity techniques.
 </blockquote>
 
-
+<h1><strong><span class="highlight">Projects</span></strong></h1>
+<hr style="border: none; border-top: 2px dotted #B4E953; width: 100%;">
+<h2><span class="highlight">PrimeTime</span></h2>
+<blockquote>
+  
+</blockquote>
 
 #### Header 4
 
