@@ -64,7 +64,7 @@ layout: default
 
 <h1><strong><span class="highlight">Leadership Experience & Organizations</span></strong></h1>
 <hr style="border: none; border-top: 2px dotted #B4E953; width: 100%;">
-<h2><span class="highlight">Association for Computing Machinery (ACM)</span</h2>
+<h2><span class="highlight">Association for Computing Machinery (ACM)</span></h2>
 <p><em>Education Division Mentor</em></p>
 <blockquote>
   Providing guidance to two underclassmen on resume building, academic planning, industry expectations, and fundamental Python practices while developing and sharing educational resources to support their coursework and personal projects
