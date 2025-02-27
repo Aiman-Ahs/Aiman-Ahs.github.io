@@ -16,6 +16,12 @@ layout: default
     color: #ABABAA;
 </style>
 
+<style>
+  .container {
+    margin-left: 40px;
+  }
+</style>
+
 <a href="Ahsan-Resume1.pdf" target="_blank" rel="noopener noreferrer">View Full Resume</a>
 
 <h1>
@@ -90,7 +96,12 @@ layout: default
 </blockquote>
 
 <h2><span class="highlight">Mini-Firewall</span></h2>
-<blockquote>
-  Followed a YouTube tutorial by 'faanross' to develop Python scripts that simulate a firewall, Nimda Worm attacks, & packet flooding. The firewall works to blacklist & log Nimda worm source IPs, sniff packets to analyze & manage them, & block IPs responsible for DOS attacks.
-</blockquote>
-<p>In the future, I plan to build upon this framework by adding text/email alerting as well as a web dashboard that visualizes the data collected. With this, I aim to improve my skills with Python libraries like Pandas & Plotly, as well as learn how to use Flask & API calls.</p>
+<div class="container">
+  <blockquote>
+    Followed a YouTube tutorial by 'faanross' to develop Python scripts that simulate a firewall, Nimda Worm attacks, & packet flooding. The firewall works to blacklist & log Nimda worm source IPs, sniff packets to analyze & manage them, & block IPs responsible for DOS attacks.
+  </blockquote>
+  <p>
+    In the future, I plan to build upon this framework by adding text/email alerting as well as a web dashboard that visualizes the data collected. With this, I aim to improve my skills with Python libraries like Pandas & Plotly, as well as learn how to use Flask & API calls.
+  </p>
+</div>
+<br>
