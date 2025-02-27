@@ -86,7 +86,7 @@ layout: default
 <hr style="border: none; border-top: 2px dotted #B4E953; width: 100%;">
 <h2><span class="highlight">PrimeTime</span></h2>
 <blockquote>
-  
+  At HackTX, my group and I got second place in Intel's 'Best Use of AI Challenge' 
 </blockquote>
 
 #### Header 4
