@@ -63,7 +63,7 @@ layout: default
 <br>
 
 <h1><strong><span class="highlight">Leadership Experience & Organizations</span></strong></h1>
-<hr style="border: none; border-top: 2px dotted #B4E953; width: 100%;">
+<hr style="border: none; border-top: 2px dotted #0e6b0e; width: 100%;">
 <h2><span class="highlight">Association for Computing Machinery (ACM)</span></h2>
 <p><em>Education Division Mentor</em></p>
 <blockquote>
@@ -79,97 +79,18 @@ layout: default
 <h2><span class="highlight">Computer Security Group (CSG)</span></h2>
 <p><em>Active Member</em></p>
 <blockquote>
-  Participating in weekly meetings to develop ethical hacking skills through hands-on experience with tools like Ubuntu and Wireshark, and completing Capture the Flag (CTF) challenges in virtual environments, and engaging with peers and professionals through guest lectures and discussions focused on practical cybersecurity techniques.
+  Participating in weekly meetings to develop ethical hacking skills through hands-on experience with tools like Ubuntu and Wireshark, completing Capture the Flag (CTF) challenges in virtual environments, and engaging with peers and professionals through guest lectures and discussions focused on practical cybersecurity techniques.
 </blockquote>
 
 <h1><strong><span class="highlight">Projects</span></strong></h1>
-<hr style="border: none; border-top: 2px dotted #B4E953; width: 100%;">
+<hr style="border: none; border-top: 2px dotted #0e6b0e; width: 100%;">
 <h2><span class="highlight">PrimeTime</span></h2>
 <blockquote>
-  At HackTX, my group and I got second place in Intel's 'Best Use of AI Challenge' 
+  At HackTX, my friends and I got second place in Intel's 'Best Use of AI Challenge' for developing a lightweight screen-time analysis web application within 25 hours. The app utilized Intel's NPUs with OpenVINO to allow for real-time productivity classification of user activity using a multimodal LLM, optimizing time management and visualizing productivity.
 </blockquote>
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<h2><span class="highlight">Mini-Firewall</h2>
+<blockquote>
+  Followed a YouTube tutorial by 'faanross' to develop Python scripts that simulate a firewall, Nimda Worm attacks, & packet flooding. The firewall works to blacklist & log Nimda worm source IPs, sniff packets to analyze & manage them, & block IPs responsible for DOS attacks.
+</blockquote>
+<p>In the future, I plan to build upon this framework by adding text/email alerting as well as a web dashboard that visualizes the data collected. With this, I aim to improve my skills with Python libraries like Pandas & Plotly, as well as learn how to use Flask & API calls.</p>
