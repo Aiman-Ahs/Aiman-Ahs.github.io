@@ -3,7 +3,7 @@ layout: default
 ---
 <style>
   .highlight {
-    color: #B4E953;
+    color: #0E2711;
 </style>
 
 <style>
