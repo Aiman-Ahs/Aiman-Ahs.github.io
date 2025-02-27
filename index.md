@@ -18,7 +18,7 @@ layout: default
 
 <style>
   .indented {
-    margin-left: 30px; 
+    margin-left: 40px; 
   }
 </style>
 
