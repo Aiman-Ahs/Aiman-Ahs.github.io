@@ -89,7 +89,7 @@ layout: default
   At HackTX, my friends and I got second place in Intel's 'Best Use of AI Challenge' for developing a lightweight screen-time analysis web application within 25 hours. The app utilized Intel's NPUs with OpenVINO to allow for real-time productivity classification of user activity using a multimodal LLM, optimizing time management and visualizing productivity.
 </blockquote>
 
-<h2><span class="highlight">Mini-Firewall</h2>
+<h2><span class="highlight">Mini-Firewall</span></h2>
 <blockquote>
   Followed a YouTube tutorial by 'faanross' to develop Python scripts that simulate a firewall, Nimda Worm attacks, & packet flooding. The firewall works to blacklist & log Nimda worm source IPs, sniff packets to analyze & manage them, & block IPs responsible for DOS attacks.
 </blockquote>
